@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\netframework\DbSolution\DbSolution\bin\Debug\net8.0\DbSolution.exe
+C:\Users\HP\Downloads\netframework\DbSolution\DbSolution\bin\Debug\net8.0\DbSolution.deps.json
+C:\Users\HP\Downloads\netframework\DbSolution\DbSolution\bin\Debug\net8.0\DbSolution.runtimeconfig.json
+C:\Users\HP\Downloads\netframework\DbSolution\DbSolution\bin\Debug\net8.0\DbSolution.dll
+C:\Users\HP\Downloads\netframework\DbSolution\DbSolution\bin\Debug\net8.0\DbSolution.pdb
+C:\Users\HP\Downloads\netframework\DbSolution\DbSolution\obj\Debug\net8.0\DbSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\netframework\DbSolution\DbSolution\obj\Debug\net8.0\DbSolution.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\netframework\DbSolution\DbSolution\obj\Debug\net8.0\DbSolution.AssemblyInfo.cs
+C:\Users\HP\Downloads\netframework\DbSolution\DbSolution\obj\Debug\net8.0\DbSolution.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\netframework\DbSolution\DbSolution\obj\Debug\net8.0\DbSolution.dll
+C:\Users\HP\Downloads\netframework\DbSolution\DbSolution\obj\Debug\net8.0\refint\DbSolution.dll
+C:\Users\HP\Downloads\netframework\DbSolution\DbSolution\obj\Debug\net8.0\DbSolution.pdb
+C:\Users\HP\Downloads\netframework\DbSolution\DbSolution\obj\Debug\net8.0\DbSolution.genruntimeconfig.cache
+C:\Users\HP\Downloads\netframework\DbSolution\DbSolution\obj\Debug\net8.0\ref\DbSolution.dll
