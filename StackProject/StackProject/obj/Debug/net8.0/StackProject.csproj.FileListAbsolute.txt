@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\netframework\StackProject\StackProject\bin\Debug\net8.0\StackProject.exe
+C:\Users\HP\Downloads\netframework\StackProject\StackProject\bin\Debug\net8.0\StackProject.deps.json
+C:\Users\HP\Downloads\netframework\StackProject\StackProject\bin\Debug\net8.0\StackProject.runtimeconfig.json
+C:\Users\HP\Downloads\netframework\StackProject\StackProject\bin\Debug\net8.0\StackProject.dll
+C:\Users\HP\Downloads\netframework\StackProject\StackProject\bin\Debug\net8.0\StackProject.pdb
+C:\Users\HP\Downloads\netframework\StackProject\StackProject\obj\Debug\net8.0\StackProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\netframework\StackProject\StackProject\obj\Debug\net8.0\StackProject.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\netframework\StackProject\StackProject\obj\Debug\net8.0\StackProject.AssemblyInfo.cs
+C:\Users\HP\Downloads\netframework\StackProject\StackProject\obj\Debug\net8.0\StackProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\netframework\StackProject\StackProject\obj\Debug\net8.0\StackProject.dll
+C:\Users\HP\Downloads\netframework\StackProject\StackProject\obj\Debug\net8.0\refint\StackProject.dll
+C:\Users\HP\Downloads\netframework\StackProject\StackProject\obj\Debug\net8.0\StackProject.pdb
+C:\Users\HP\Downloads\netframework\StackProject\StackProject\obj\Debug\net8.0\StackProject.genruntimeconfig.cache
+C:\Users\HP\Downloads\netframework\StackProject\StackProject\obj\Debug\net8.0\ref\StackProject.dll
