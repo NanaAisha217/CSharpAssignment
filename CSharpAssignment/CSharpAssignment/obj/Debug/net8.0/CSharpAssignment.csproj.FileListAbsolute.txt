@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\netframework\CSharpAssignment\CSharpAssignment\bin\Debug\net8.0\CSharpAssignment.exe
+C:\Users\HP\Downloads\netframework\CSharpAssignment\CSharpAssignment\bin\Debug\net8.0\CSharpAssignment.deps.json
+C:\Users\HP\Downloads\netframework\CSharpAssignment\CSharpAssignment\bin\Debug\net8.0\CSharpAssignment.runtimeconfig.json
+C:\Users\HP\Downloads\netframework\CSharpAssignment\CSharpAssignment\bin\Debug\net8.0\CSharpAssignment.dll
+C:\Users\HP\Downloads\netframework\CSharpAssignment\CSharpAssignment\bin\Debug\net8.0\CSharpAssignment.pdb
+C:\Users\HP\Downloads\netframework\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\CSharpAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\netframework\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\CSharpAssignment.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\netframework\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\CSharpAssignment.AssemblyInfo.cs
+C:\Users\HP\Downloads\netframework\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\CSharpAssignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\netframework\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\CSharpAssignment.dll
+C:\Users\HP\Downloads\netframework\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\refint\CSharpAssignment.dll
+C:\Users\HP\Downloads\netframework\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\CSharpAssignment.pdb
+C:\Users\HP\Downloads\netframework\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\CSharpAssignment.genruntimeconfig.cache
+C:\Users\HP\Downloads\netframework\CSharpAssignment\CSharpAssignment\obj\Debug\net8.0\ref\CSharpAssignment.dll
